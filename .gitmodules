@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/jeo"]
+	path = wp-content/themes/jeo
+	url = https://github.com/aelevadoan/jeo.git
